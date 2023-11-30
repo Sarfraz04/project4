@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Tc_15---->Testscript execution starts from here<----]]>
+    </line>
+    <line>
+      <![CDATA[Tc_15---->Test Script Executed Successfully<----]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-24T11:05:02 IST" name="Suite" finished-at="2023-11-24T11:05:22 IST" duration-ms="19663">
+    <groups>
+    </groups>
+    <test started-at="2023-11-24T11:05:02 IST" name="Test" finished-at="2023-11-24T11:05:22 IST" duration-ms="19663">
+      <class name="com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test">
+        <test-method is-config="true" signature="config_BS()[pri:0, instance:com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test@3fc2959f]" started-at="2023-11-24T11:05:02 IST" name="config_BS" finished-at="2023-11-24T11:05:02 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BS -->
+        <test-method is-config="true" signature="config_Bc()[pri:0, instance:com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test@3fc2959f]" started-at="2023-11-24T11:05:03 IST" name="config_Bc" finished-at="2023-11-24T11:05:08 IST" duration-ms="5590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_Bc -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test@3fc2959f]" started-at="2023-11-24T11:05:08 IST" name="config_BM" finished-at="2023-11-24T11:05:09 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="Tc_15()[pri:0, instance:com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test@3fc2959f]" started-at="2023-11-24T11:05:09 IST" name="Tc_15" finished-at="2023-11-24T11:05:21 IST" duration-ms="11903" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc_15---->Testscript execution starts from here<----]]>
+            </line>
+            <line>
+              <![CDATA[Tc_15---->Test Script Executed Successfully<----]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Tc_15 -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test@3fc2959f]" started-at="2023-11-24T11:05:21 IST" name="config_AM" finished-at="2023-11-24T11:05:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_AC()[pri:0, instance:com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test@3fc2959f]" started-at="2023-11-24T11:05:21 IST" name="config_AC" finished-at="2023-11-24T11:05:22 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AC -->
+        <test-method is-config="true" signature="config_AS()[pri:0, instance:com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test@3fc2959f]" started-at="2023-11-24T11:05:22 IST" name="config_AS" finished-at="2023-11-24T11:05:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AS -->
+      </class> <!-- com.OnlineBankingTestScript.ApplyForDebitCardWithBlank_Tc15_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
